@@ -848,8 +848,8 @@ GameObject:
   m_Component:
   - component: {fileID: 1142522550}
   m_Layer: 0
-  m_Name: Pick Ups
-  m_TagString: Untagged
+  m_Name: Pick Up
+  m_TagString: Pick Up
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -979,7 +979,7 @@ GameObject:
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
-  m_IsActive: 0
+  m_IsActive: 1
 --- !u!135 &1172895606
 SphereCollider:
   m_ObjectHideFlags: 0
